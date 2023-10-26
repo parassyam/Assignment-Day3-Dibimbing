@@ -1,5 +1,7 @@
 //Assignment Day3 Dibimbing
 
+//Farras Syam Aly
+
 //deklarasi variable
 let nilaiAngka = 73;
 
